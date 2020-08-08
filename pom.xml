@@ -33,7 +33,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.htp.start.Main</mainClass>
+                            <mainClass>com.htp.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
